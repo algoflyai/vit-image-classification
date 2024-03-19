@@ -1,0 +1,6 @@
+**/__pycache__/
+.ipynb_checkpoints/
+.Trash-0/
+weights/
+dataset/
+training_history.json
